@@ -3,15 +3,18 @@ const Foods = (props) => {
   const { data } = props;
 
   return (
-    <div className="flex max-w-[1300px] flex-wrap justify-center gap-2">
+    <div className="mt-10 flex max-w-[1300px] flex-wrap justify-center gap-8">
       {data.map((item, index) => (
-        <div key={index} className="max-w-[400px] p-5">
+        <div
+          key={index}
+          className="max-w-[400px] rounded-md bg-[#F5F5F5] duration-300 hover:scale-95"
+        >
           <img
             src={item.image}
             alt={item.name}
             width={360}
             height={240}
-            className="block h-[240px] w-[360px] rounded-t-md object-cover"
+            className="block h-[240px] w-full rounded-t-md object-cover"
           />
           <div className="p-5">
             <div className="mt-4 flex items-center justify-between">
