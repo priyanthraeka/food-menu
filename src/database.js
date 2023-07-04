@@ -14,7 +14,7 @@ export const menu = [
     price: 15.99,
     category: "breakfast",
     description:
-      "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed",
+      "Fluffy, tangy buttermilk pancakes: a golden, indulgent breakfast delight that's simply irresistible and delicious.",
   },
   {
     image: img2,
@@ -22,7 +22,7 @@ export const menu = [
     price: 13.99,
     category: "lunch",
     description:
-      "vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats",
+      "This is a towering, cheesy burger with juicy patties, fresh toppings, and irresistible flavors.",
   },
   {
     image: img3,
@@ -30,7 +30,7 @@ export const menu = [
     price: 6.99,
     category: "shakes",
     description:
-      "ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.",
+      "A monstrous, towering milkshake with flavors that will shake your taste buds to their core.",
   },
   {
     image: img4,
@@ -38,7 +38,7 @@ export const menu = [
     price: 20.99,
     category: "breakfast",
     description:
-      "Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut,",
+      "Golden-brown toasted bread topped with a luscious egg and drizzled with tangy tomato sauce. Simply delicious!",
   },
   {
     image: img5,
@@ -46,7 +46,7 @@ export const menu = [
     price: 22.99,
     category: "lunch",
     description:
-      "franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up",
+      "A mouthwatering combination of a perfectly cooked egg and a juicy, flavorful burger patty.",
   },
   {
     image: img6,
@@ -54,7 +54,7 @@ export const menu = [
     price: 18.99,
     category: "shakes",
     description:
-      "Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday",
+      "Creamy milkshakes with crushed Oreo cookies, delivering a dreamy blend of indulgence and nostalgia.",
   },
   {
     image: img7,
@@ -62,7 +62,7 @@ export const menu = [
     price: 8.99,
     category: "breakfast",
     description:
-      "carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird",
+      "A mouthwatering burger piled high with crispy bacon, oozing cheese, and overflowing with savory goodness.",
   },
   {
     image: img8,
@@ -70,6 +70,6 @@ export const menu = [
     price: 12.99,
     category: "lunch",
     description:
-      "on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut",
+      "A classic, no-frills burger with a juicy beef patty, fresh toppings, and a soft bun.",
   },
 ];

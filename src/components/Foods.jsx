@@ -7,7 +7,7 @@ const Foods = (props) => {
       {data.map((item, index) => (
         <div
           key={index}
-          className="max-w-[400px] rounded-md bg-[#F5F5F5] duration-300 hover:scale-95"
+          className="max-w-[400px] rounded-md bg-[#F5F5F5] duration-200 hover:scale-95"
         >
           <img
             src={item.image}
